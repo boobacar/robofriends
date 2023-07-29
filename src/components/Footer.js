@@ -6,8 +6,8 @@ const Footer = () => {
     return (
         <div>
             <footer>
-                <p style={{color: 'cyan'}}>
-                    Boubacar FALL [{year}] ©
+                <p style={{color: '#0ccac4'}}>
+                © Boubacar FALL [{year}]
                 </p>
             </footer>
         </div>
